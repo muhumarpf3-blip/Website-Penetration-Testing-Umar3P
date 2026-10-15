@@ -1,6 +1,4 @@
 <h1 align="center"> DIY Web Penetration Testing</h1>
-<p align="center"><b> Version: 1.1 </b></p>
-
 
 <p align="center">Do It Yourself! (DIY) Web Penetration Testing is a guideline in performing security test cases against web applications <br></p>
 
@@ -10,7 +8,6 @@
 <br>
 <p align="center">
    <img src="https://zerotak.com/wp-content/uploads/2022/10/zerotak_home-header-img.png"></img><br>
-   <h3 align="center">Brought to you by <a href="https://zerotak.com">Zerotak</a></h3>
 </p>
 <br>
 <h2>This guide is for:</h2> 
